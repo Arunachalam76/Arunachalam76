@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Arunachalam76
 - 👀 I’m interested in Kubernetes, Jenkins, Data Science, Azure and Oracle Cloud 
 - 🌱 I’m currently learning K8s and Devops
-- 💞️ I’m looking to collaborate on  AWS, Oracle Cloud and Devops 
+- 💞️ I’m looking to collaborate on  AWS, Google Cloud and Devops 
 - 📫 How to reach me aruchalam@gmail.com
 
 <!---
